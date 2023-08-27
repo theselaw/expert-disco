@@ -56,12 +56,12 @@ By. Maye Edwin (Software Engineer)
 
 ## ---web server
 
-### - [ ] Clients :also known as the browser is used ito type request for a resource using a link (URL) e.g say you're trying to visit a particular website.
+### Clients :also known as the browser is used ito type request for a resource using a link (URL) e.g say you're trying to visit a particular website.
 
-### - [ ] Webserver :Is where the particular resource say , website or webpage you are trying to locate is located or stored.
+### Webserver :Is where the particular resource say , website or webpage you are trying to locate is located or stored.
 
 
-### - [ ] (Uniform Resource Locator): is the link usually being typed in a browser in order to visit a site.
+### (Uniform Resource Locator): is the link usually being typed in a browser in order to visit a site.
 
 >### -Each URL points to a unique resource i.e website or webpages
 
@@ -83,7 +83,7 @@ By. Maye Edwin (Software Engineer)
 
 >### In communicating ,The client sends a request to webserver in a bid to access a resource and when the receives this request,it checks it and then return a response to the client.
 
-### - [ ] DOM (Document Object Model): is the collection of all the contents inside a web page which could be images , videos ,fonts on a web page.
+### DOM (Document Object Model): is the collection of all the contents inside a web page which could be images , videos ,fonts on a web page.
 
 ### The browser on the other hand is what constructs a these pages together such that it can be seen.
 
@@ -111,7 +111,7 @@ By. Maye Edwin (Software Engineer)
 ```
 
 # Chapter 6 -HTML basics
-### - [ ] **Html Elements:** are used to display contents in an html page in a desired format.
+### **Html Elements:** are used to display contents in an html page in a desired format.
 
 ### E.g let us say we want to display a paragraph that holds the information "Hello World" in a web page. We can make use of the paragraph elements to achieve it in this manner:
 
@@ -120,7 +120,7 @@ By. Maye Edwin (Software Engineer)
 ```
 
 
-### - [ ] Anatomy of an Html element.
+### Anatomy of an Html element.
 
 ### An element basically has an opening tag , attributes , the contents to be displayed and a closing tag.
 
@@ -135,10 +135,10 @@ By. Maye Edwin (Software Engineer)
 Insert image here
 
 
-### - [ ] Html tags : are basically of two types an opening tag and a closing tag. They define the beginning and end of a web content or html element
+### Html tags : are basically of two types an opening tag and a closing tag. They define the beginning and end of a web content or html element
 
 
-### - [ ] Attributes: are used to add extra (additional) information to an html elements which you don't want to appear in the actual content.It is placed in the opening tag.
+### Attributes: are used to add extra (additional) information to an html elements which you don't want to appear in the actual content.It is placed in the opening tag.
 
 >-Each attributes has a name and a value
 
@@ -152,9 +152,9 @@ Image
 >#### -Attributes have different properties and each serving different functions.<br/>
 ```E.g src , class ,alt ,Id```
 
-### - [ ] Src--locate the source of a file
+### Src--locate the source of a file
 
-### - [ ] Alt - alternative text incase an image fails to display
+### Alt - alternative text incase an image fails to display
 
 
 ### More of these attributes will be discussed in later lessons and in later lessons we will be diving into more html tags.
