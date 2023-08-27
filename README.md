@@ -1,203 +1,165 @@
-<Span align="center" style="color:yellow;">
+<div align="center" style="color:yellow;">
 
- # Week 1 -INTRODUCTION TO THE LMS & COMPUTER SCIENCE
-</span>
+ # Week 2 -HTML AND CSS
+</div>
 
 <p align="center"> 
-By. Jerry Uke (Program Manger ) & 
+By. Maye Edwin (Software Engineer)
 
 </p>
 
-# chapter 1 - The LMS 
+# Chapter 1- Welcome
 
-### - [ ] LMS (Learning Management System) :Is simply composed of videos ,text and tasks .
+### Front-end engineering can be thought of as an artist being able to draw an object such as a tree .
 
-<br>
+### As a front-end engineer you'll be able to convert designs into a website and web application.
 
-# Chapter 2 - What is Computer Science?
 
->#### ---Theoretically : It's the study of computers including the hardware and the software ,a broad field that includes all aspect of computing including figuring out new ways to solve problems.
+# Chapter 2 - Hello and Welcome to Html .
 
->#### Practically: It's simply about solving problems.
+### Html , CSS and JavaScript are core technologies used to build stuffs on the web .
 
-## -  Fields in computer Science
+### Front-end engineering among other technical aspects of it involves being able to convert designs into live websites or mobile and web application.
 
-### - [ ] AI:  deals with the design of systems that can function without human control . Some examples of this are;(computer vs human )chess games, programs that suggests music based on listening interest.
+>### _N.B : The focus in this course however will be on website and web application._
 
-### - [ ] UI(User Interface)/UX(User Experience ): deals with designing the interface people interact with--- these interactions can occur in different forms such as websites ,web apps , mobile phones ,VR (Virtual Reality ) e.t.c
 
->#### In this aspect of computer Science the designers takes into heavy consideration the usability and compatibility of their design , which requires attention to details , communication and collaborative skills. UI/UX Designers often have to collaborate with front-end and back-end engineers in order to have a finished product.
 
-### - [ ] Data Science: Data Scientists mine large data to gain insights Or useful information. The ability to transform large amount of data into actionable insights can have a huge impact on a business, it requires attention to details , mathematics and analytical skills.
+# Chapter 3- What is Html  ,CSS and JavaScript ?
 
-### - [ ] Software Engineering - Is a branch of Computer Science that enables the application of principles of Computer Science in order to design or develop software.
+### HTML (Hyper Text Markup Language): is the markup language used to define the contents we display on a web page , they include paragraphs, images , titles ,headers e.t.c
 
-### Some things to explore outside the course are;
+
+### CSS (Cascading Style Sheet) : used in dictating or defining the appearance of the contents of a web page e.g making paragraphs framed, underlining paragraphs in a web page . It is simply used to define the appearance of the content that we create using html.
+
+### JavaScript: This is also known as the programming language of the web . It is used to add interactivity to our web application or website.
+
+
+>## To put it together, as an example;
+
+
+<span align="center" style="color:yellow;">
+-A form can be defined using HTML<br/>
+-then centered with CSS</br/>
+-While the input data can be collected,sent or kept somewhere using JavaScript.
+</span> 
+
+
+
+
+
+# Chapter 4. - How the Web works.
+
+ >###When it comes to the web ,there are basically two things involved which are ;
+
+## ---Clients (browser)
+
+## ---web server
+
+### - [ ] Clients :also known as the browser is used ito type request for a resource using a link (URL) e.g say you're trying to visit a particular website.
+
+### - [ ] Webserver :Is where the particular resource say , website or webpage you are trying to locate is located or stored.
+
+
+### - [ ] (Uniform Resource Locator): is the link usually being typed in a browser in order to visit a site.
+
+>### -Each URL points to a unique resource i.e website or webpages
+
+>### ---It is an ID or unique address for a particular resource on the internet.
+
+### An example of a URL is : altschoolafrica.com ,which leads to the website's home page.
+
+### Resources required by a browser using a URL could be 
 ```
--What is a Computer System ?
--The Difference between computer hardware and software 
--Intensively and extensively discuss the difference between application software and System software.
--List example of application software and system software.
+>>> websites (HTML document)
+
+>>> Images (e.g Images seen on Facebook or Instagram)
+
+>>> fonts , videos and audio files.
 ```
+>### Each of the above listed resources as they may appear on any webpage or website has it own unique URL.
+
+### Both the client and the web server communicates using a messaging  language known as the https -hyper text transfer protocol (secure).
+
+>### In communicating ,The client sends a request to webserver in a bid to access a resource and when the receives this request,it checks it and then return a response to the client.
+
+### - [ ] DOM (Document Object Model): is the collection of all the contents inside a web page which could be images , videos ,fonts on a web page.
+
+### The browser on the other hand is what constructs a these pages together such that it can be seen.
+
+### For example let's say you have a blank book and a story to write ,the browser can be seen as the one writing the contents of the book and then showing it to you.
 
 
-# Chapter 2- 🔢Introduction to Computer Programming 
->>>Intro.
-<p style="color:yellow;"">By Chidi Okoye ,product manager altschool </p>
 
+# Chapter 5- History of html
+>## In 1989 ,Tim berners-lee invented what we know today as the web alongside this incredible invention which has helped shaped the word was the invention of its publishing language known today as HTML .
 
-### - [ ] Computer programming: also known as coding, involves wetting well structured instructions for a computer to execute.
+### Since it first creation it has evolved from its version 1.0 with limited tags and capabilities to now html with more abilities.
 
->### *---a computer only understands machine language - which are zeros (0) and one's (1).*
-
-### computer programs are written in a programming language ,However this does not mean that the computer can directly interpretes these programming language. This therefore takes us back to where we derailed from ---programming language
-
-### ---programming language are divided into :
-1.  Low level and
-2.  High level language
-
-### and subsequently the low level language is divided into two,which are ;
-
-1.  Machine language
-2.  Assembly language
-
-### *Now let us break it down by explaining briefly;*
-
-### - [ ] Machine language: as formerly said can be directly understood by a computer
-
-### - [ ] Assembly language on the other hands needs to be translated by something called an assembler to machine language before it is understood by the computer. Assembly language is less complicated than machine language and it has some readable parts.
-
-### - [ ] High level language: on the other hand uses compilers and interpreters to translate it language into a machine readable language.
-
-<br/>
-<br/>
-
-### *To illustrate how a computer program works,take for example you just woke up in the morning and would like to have a coffee first, a possible steps involved in achieving this would probably be in this form;*
-
+#### Later in the course we will be talking about 
 ```
--stand up 
--walk to your kitchen
--Boil water
--Add Coffee & Milk
--Yes Coffee is ready.
-```
-<br/> 
-
-### *In the same manner computer programs are made up of sets of instructions which together fulfils the purpose of the program.*
-
-<br/>
-
-# chapter 3 - Compilers & Interpreters
-
-### Compilers and interpreters both converts computer programs written in one language to another, usually a machine language and can be processed by a computer.
-
-### However, While a computer translates the entire program at once . An interpreter on the other hand takes each of the statement in the program one at a time and translate.
-
->### A compiler is generally faster than an interpreter because it analyze each statement just once, while an interpreter must analyze it each time e.g in a loop .
-
-<br/>
-
-# Chapter 4 - Data and Information.
-
-### - [ ] Data:is a collection of values that can be symbols ,letters e.t.c
-
-### Types of  Data
-
-1. ### Digital 
-2. ### Analog
-
-
-### Digital : are programmed in a step by step sequence and jumps from one value to the next. They are discrete and discontinuous.
-
-### Analog - are continuous and fluctuate infinitely within a range . E.g sound
-
->### Examples of some analog devices are: Loudspeaker , thermometer, NFC, amplifier e.t.c
-
-### Data can be converted from digital to analog and vice versa using ADC (Analog to Digital Converter ) and DAC (Digital to Analog Converters).
-
-### - [ ] Information:- refers to the processed data . When data is interpreted, it provides context with which we can make informed decisions.
-
-
-# Chapter 5 - Bits ,Bytes , Variables, Data types and Type Checking in programming.
-
-### - [ ] Bits- This is usually denoted with a lower case of the letter  # 'b'  and 8 bits is equal to a byte.It's also known as the smallest form of storage. This is seen more when describing network speed.
-
-
-### - [ ] Bytes:- are commonly used when referring to the size of data on a computer. For example when talk about the storage capacity of our gadgets phone or laptop say for example "my phone has an internal storage of 32 Gigabytes.".
-
->### 200Mbps (200 mega bits per seconds)<br/>It will take about 8 seconds to do download a file of ,since 1 byte = 8 bits
-
-### - [ ] Variables:are used to store data that is likely to be reused and or manipulated in a program, they provide a way of labelling data , so our programs can be understood more Clearly by the reader and ourself.
-
->### ---Think of a variable as a  data container, which you can call when you need the data that is in it.
-
-### It is also important to use descriptive words when naming a variable as it gets difficult to manage obscure variable names in large programs.
-
-
-### - [ ] Assigning Values to Variables.
-
-### In most programming language, the "=" equal sign is used to assign a value to a variable with the variable name on the left side of the operator and the value on the right.
-
-
-### E.g
-### Declaring a variable In python programming language is as follows;
-
-```
-Name = "Ade "
-```
->### N.B :The operator in the context above is the "=" equal sign, also called the assignment operator . 
-
-
-### Some language on the other hand comes with some keywords before a variable can be declared or assigned a value, an example of this is the JavaScript programming language :
-
-```
-Const name = "Ade"
+-Anatomy of html elements
+-Nestling elements
+-Empty elements
+-Anatomy of  html document
+-images 
+-comments
+-links
+-marking up text
+-forms
+-tables
 ```
 
-### - [ ] Data types :refers to the attributes of a value which provides the compiler on what types of mathematical, logical or relational operations can be carried out on it without throwing an error.
+# Chapter 6 -HTML basics
+### - [ ] **Html Elements:** are used to display contents in an html page in a desired format.
 
->### In simple terms ,It tells the compiler what type of data you're giving to it.
-
-### Forms of data types;
-
-1. ### integers
-2. ### floating point numbers
-3. ### boolean operatoes
-4. ### Text/Strings
-5. ### null
-6. ### pointers.
-
-### - [ ] Integers:ranges from negative infinity to positive infinity,it includes negative numbers like -20 ,-4 ,-1 , Zero (0) and also positive numbers like 1 ,45 ,900 e.t.c
-
-### - [ ] Floating point numbers: includes numbers with decimals e.g 5.6 , 6.3 e.t.c
-
-### - [ ] Boolean operators -are used to operate conditions and to depict when something is either False or True.
-
-### - [ ] Text /String - represents words containing characters which may be made up of letters , digits , symbols and sign.
-
-### - [ ] null - represents an unknown or unspecified value.
-
-### - [ ] pointers - helps us store the memory address of a value
-
-## Type Checking
->### Type checking involves ensuring that operations carried out on values of each particular data type in a computer program are valid .
-
-### - [ ] Type error: is thrown if an invalid operations is carried out.
-
-### E.g
+### E.g let us say we want to display a paragraph that holds the information "Hello World" in a web page. We can make use of the paragraph elements to achieve it in this manner:
 
 ```
-X = 4 *  "Ade tiger"
+<p> Hello World!</p>
+```
 
-√"Ade tiger"
+
+### - [ ] Anatomy of an Html element.
+
+### An element basically has an opening tag , attributes , the contents to be displayed and a closing tag.
+
+###E.g
+
+```
+<p class="text">My name is Maye</p>
 
 ```
 
-## Methods of Type checking
 
-1. ### Static
-2. ### Dynamic
+Insert image here
 
-### Static: is done at a compiler time ,when a computer translates the source code.
 
-### Dynamic:
+### - [ ] Html tags : are basically of two types an opening tag and a closing tag. They define the beginning and end of a web content or html element
+
+
+### - [ ] Attributes: are used to add extra (additional) information to an html elements which you don't want to appear in the actual content.It is placed in the opening tag.
+
+>-Each attributes has a name and a value
+
+
+Image
+
+
+
+### ---It starts with the name of the attributes followed by an "=" equal sign or assignment operator to assign the value and immediately following the operator is the value.
+
+>#### -Attributes have different properties and each serving different functions.<br/>
+```E.g src , class ,alt ,Id```
+
+### - [ ] Src--locate the source of a file
+
+### - [ ] Alt - alternative text incase an image fails to display
+
+
+### More of these attributes will be discussed in later lessons and in later lessons we will be diving into more html tags.
+
+>### Conclusively, Front-end engineering can be thought of as an artist being able to draw an object such as a tree .
+
+
+
