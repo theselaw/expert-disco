@@ -141,7 +141,12 @@ By. Jerry Uke (Program Manger )
 
 ### Bytes:- are commonly used when referring to the size of data on a computer. For example when talk about the storage capacity of our gadgets phone or laptop say for example "my phone has an internal storage of 32 Gigabytes.".
 
->### 200Mbps (200 mega bits per seconds)<br/>It will take about 8 seconds to do download a file of ,since 1 byte = 8 bits
+>### For a network speed of 200mbps (200 megabits per second) it will take approximately 8 seconds to download a file of 200MB ,this because 8 bits equals to a byte and by calculation;
+
+### (200 megabits) / (8 bits per byte) = 25 megabytes per second (MB/s)
+### (200 megabytes) / (25 MB/s) = 8 seconds (approx.)
+### So, there you have it - it would take approximately 8 seconds to download a file of 200MB at a speed of 200mbps. 
+<br/>
 
 ### Variables:are used to store data that is likely to be reused and or manipulated in a program, they provide a way of labelling data , so our programs can be understood more Clearly by the reader and ourself.
 
@@ -170,11 +175,14 @@ Name = "Ade "
 Const name = "Ade"
 ```
 
+### Whenever we need to access the name in our application,we can easily use the variable name and manipulate it based on the data types of the value ,which leads us to the next topic and discussion: data types.
+
 ### Data types :refers to the attributes of a value which provides the compiler on what types of mathematical, logical or relational operations can be carried out on it without throwing an error.
 
 >### In simple terms ,It tells the compiler what type of data you're giving to it.
 
 ### Forms of data types;
+### Most programming language supports the following data types
 
 1. ### integers
 2. ### floating point numbers
@@ -183,7 +191,7 @@ Const name = "Ade"
 5. ### null
 6. ### pointers.
 
-### Integers:ranges from negative infinity to positive infinity,it includes negative numbers like -20 ,-4 ,-1 , Zero (0) and also positive numbers like 1 ,45 ,900 e.t.c
+### Integers: represents non- decimal numbers, ranges from negative infinity to positive infinity,it includes negative numbers like -20 ,-4 ,-1 , Zero (0) and also positive numbers like 1 ,45 ,900 e.t.c
 
 ### Floating point numbers: includes numbers with decimals e.g 5.6 , 6.3 e.t.c
 
