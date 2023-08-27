@@ -231,4 +231,5 @@ X = 4 *  "Ade tiger"
 ### Dynamic: Do type checking at run time - when the program is running , 
 >### so at this point the program runs but throws an error when mismatched type code block is executed. 
 >###  This is seen in languagees like Javascript , Python  , Ruby and  this can make it quite difficult to catch type error in development , especially if the program is not properly >### tested.
-##
+
+# Chapter 6 - DATA STRUCTURES, CONTROL FLOW, LOOPS & RECURSION
