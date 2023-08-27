@@ -136,7 +136,7 @@ By. Jerry Uke (Program Manger )
 <p  align="center" style="color:yellow;"">Jerry Uke -Program Manager altschool </p>
 
 ![Bits ,Bytes , Variables, Data types and Type Checking in programming](https://github.com/theselaw/expert-disco/blob/week1/bits%20and%20bytes.png)
-### Bits- This is usually denoted with a lower case of the letter  # 'b'  and 8 bits is equal to a byte.It's also known as the smallest form of storage. This is seen more when describing network speed.
+### Bits- This is usually denoted with a lower case of the letter   'b' , 8 bits is equal to a byte.It's also known as the smallest form of storage. This is seen more when describing network speed.
 
 
 ### Bytes:- are commonly used when referring to the size of data on a computer. For example when talk about the storage capacity of our gadgets phone or laptop say for example "my phone has an internal storage of 32 Gigabytes.".
