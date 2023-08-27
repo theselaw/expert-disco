@@ -50,7 +50,7 @@ By. Maye Edwin (Software Engineer)
 
 # Chapter 4. - How the Web works.
 
- >###When it comes to the web ,there are basically two things involved which are ;
+ >### When it comes to the web ,there are basically two things involved which are ;
 
 ## ---Clients (browser)
 
