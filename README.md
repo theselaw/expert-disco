@@ -1,10 +1,17 @@
+
 <div align="center" style="color:yellow;">
 
  # Week 2 -HTML AND CSS
+
+ ![TItle](https://github.com/theselaw/expert-disco/blob/week2/html%20class.png)
+
 </div>
+
+ ![Maye Edwin- Senior Software Engineer](https://github.com/theselaw/expert-disco/blob/week2/maye%20edwin.png)
 
 <p align="center"> 
 By. Maye Edwin (Software Engineer)
+
 
 </p>
 
@@ -120,19 +127,21 @@ By. Maye Edwin (Software Engineer)
 ```
 
 
+
 ### Anatomy of an Html element.
 
 ### An element basically has an opening tag , attributes , the contents to be displayed and a closing tag.
 
-###E.g
+### E.g
 
 ```
 <p class="text">My name is Maye</p>
 
 ```
 
+![TItle](https://github.com/theselaw/expert-disco/blob/week2/HTML%20Element.jpg)
 
-Insert image here
+
 
 
 ### Html tags : are basically of two types an opening tag and a closing tag. They define the beginning and end of a web content or html element
@@ -140,10 +149,10 @@ Insert image here
 
 ### Attributes: are used to add extra (additional) information to an html elements which you don't want to appear in the actual content.It is placed in the opening tag.
 
->-Each attributes has a name and a value
+>### -Each attributes has a name and a value
 
 
-Image
+![attributes](https://github.com/theselaw/expert-disco/blob/week1/attributes.jpg)
 
 
 
@@ -156,6 +165,7 @@ Image
 
 ### Alt - alternative text incase an image fails to display
 
+![Html attributes](https://github.com/theselaw/expert-disco/blob/week2/html%20attributes.jpg)
 
 ### More of these attributes will be discussed in later lessons and in later lessons we will be diving into more html tags.
 
