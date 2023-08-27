@@ -222,6 +222,13 @@ X = 4 *  "Ade tiger"
 1. ### Static
 2. ### Dynamic
 
-### Static: is done at a compiler time ,when a computer translates the source code.
+### Static: is done at a compiler time - when a compiler translates the source code.
+>### Type checking is done and an error is immediately thrown and the code doesn't run
+>### This is useful because type error can be caught early in the development cycles.
+>### seen in languages like C++ , Java , C ,Go ,Typescript and more
+<br/>
 
-### Dynamic:
+### Dynamic: Do type checking at run time - when the program is running , 
+>### so at this point the program runs but throws an error when mismatched type code block is executed. 
+>###  This is seen in languagees like Javascript , Python  , Ruby and  this can make it quite difficult to catch type error in development , especially if the program is not properly >### tested.
+##
